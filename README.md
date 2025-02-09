@@ -26,4 +26,4 @@ Bu C programı, kullanıcıdan iki tarih alır ve bu tarihler arasındaki zaman 
 
 1. Programı derleyin:
    ```bash
-   gcc -o epoch_hesapla epoch_hesapla.c
+   gcc -o epoch epoch.c
