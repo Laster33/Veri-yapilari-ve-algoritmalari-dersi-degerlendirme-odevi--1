@@ -1,1 +1,1 @@
-# Veri-yap-lar-ve-algoritmalar-dersi-de-erlendirme-devi--1
+# Veri-yapilari-ve-algoritmalari-dersi-degerlendirme-odevi--1
